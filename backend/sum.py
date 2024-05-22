@@ -7,4 +7,4 @@ def sum(x, y, *args):
         res += arg
     return res
 
-print(sum(a, b, 5, 10, 11))
+print(sum(a, b, 5, 10, 11, 15))
